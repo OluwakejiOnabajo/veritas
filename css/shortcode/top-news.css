@@ -121,7 +121,7 @@ ul.top-news-menu li a:hover, ul.top-news-menu li.active a{
 }
 .update-news a.apple:before {
   position: absolute;
-  content: "\f33c";
+  content: "\f17b";
   font-family: Material-Design-Iconic-Font;
   left: 30px;
   font-size: 30px;
